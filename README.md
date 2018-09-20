@@ -76,3 +76,4 @@ Now that we have two messages arriving at the chart node, it will use the msg.to
 
 
 The last thing we do is change the inject node to repeat every 10 seconds so we don’t have to keep clicking on it. Deploy and take a look at the dashboard which should look like the screenshot on top of this article.
+
